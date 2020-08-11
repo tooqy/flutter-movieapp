@@ -1,0 +1,6 @@
+1. Buat Model sesuai Json
+2. Buat Response
+3. Buat Repository
+4. tambahin di info.plist supaya youtube nya jalan.
+    <key>io.flutter.embedded_views_preview</key>
+    <true/>
